@@ -5,7 +5,7 @@ using LinqWtihEfCore;
 "prs".CWL();
 
 
-/*
+
 List<FootballTeam> teams = new()
 {
     new FootballTeam {Name = "Bengals", State = "Ohio"},
@@ -24,7 +24,7 @@ foreach (var team in filteredTeamsInOhioGreg)
     team.Name.CWL();
 }
 
-*/
+
 
 
 /*
